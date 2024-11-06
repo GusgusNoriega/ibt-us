@@ -578,7 +578,7 @@ hola 2
 
 
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAod_9IB6QOdtJRmEz1ntIrw8VaPW_-EQM&libraries=geometry,places&callback=initMap" async defer loading="lazy"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=tu_api&libraries=geometry,places&callback=initMap" async defer loading="lazy"></script>
 
   
 
